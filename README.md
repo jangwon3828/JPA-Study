@@ -24,6 +24,8 @@
   - [연관관계 매핑]( https://github.com/jangwon3828/JPA-Study/blob/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%A7%A4%ED%95%91.md)  
   
   - [고급 매핑]( https://github.com/jangwon3828/JPA-Study/blob/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EA%B3%A0%EA%B8%89%EB%A7%A4%ED%95%91.md)
+ 
+- [값 타입]( https://github.com/jangwon3828/JPA-Study/blob/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/%EA%B0%92%20%ED%83%80%EC%9E%85.md)
 
     
  </details>
